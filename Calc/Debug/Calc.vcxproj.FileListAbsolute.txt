@@ -1,0 +1,5 @@
+D:\Visual Studio\Progects\Win_Forms\Calc\Calc\Debug\Calc.vcxprojAssemblyReference.cache
+D:\Visual Studio\Progects\Win_Forms\Calc\Calc\Debug\Calc.MyForm.resources
+D:\Visual Studio\Progects\Win_Forms\Calc\Calc\Debug\Calc.vcxproj.GenerateResource.cache
+D:\Visual Studio\Progects\Win_Forms\Calc\Calc\Debug\Calc.exe
+D:\Visual Studio\Progects\Win_Forms\Calc\Calc\Debug\Calc.pdb
